@@ -1,0 +1,128 @@
+[
+    {
+        "brand": "Nokia",
+        "model": "2300",
+        "condition": "Used",
+        "years_used": "2007 - 2009",
+        "gsmarena_link": "https://www.gsmarena.com/nokia_2300-513.php",
+        "memory": "My first ever phone which was passed down by my mother. Too many memories to list down.",
+        "image": "https://fdn2.gsmarena.com/vv/bigpic/no2300.gif"
+    },
+    {
+        "brand": "Nokia",
+        "model": "3500 classic",
+        "condition": "New",
+        "years_used": "2009 – 2012",
+        "gsmarena_link": "https://www.gsmarena.com/nokia_3500_classic-2012.php",
+        "memory": "First phone with a camera and used to take lots of photos with it.",
+        "image": "https://fdn2.gsmarena.com/vv/bigpic/nokia-3500classic.gif"
+    },
+    {
+        "brand": "Samsung",
+        "model": "Galaxy S Advance",
+        "condition": "New",
+        "years_used": "2012 – 2014",
+        "gsmarena_link": "https://www.gsmarena.com/samsung_i9070_galaxy_s_advance-4469.php",
+        "memory": "First Android phone in the family and eventually everyone in the family joined the bandwagon.",
+        "image": "https://fdn2.gsmarena.com/vv/bigpic/samsung-galaxy-s-advance.jpg"
+    },
+    {
+        "brand": "LG",
+        "model": "Nexus 4",
+        "condition": "New",
+        "years_used": "2014 – 2016",
+        "gsmarena_link": "https://www.gsmarena.com/lg_nexus_4_e960-5048.php",
+        "memory": "Venturing Google OS for the first time. I could still recall how hard it was to find a new unit in retail shops at my hometown.",
+        "image": "https://fdn2.gsmarena.com/vv/bigpic/lg-nexus-4-new.jpg"
+    },
+    {
+        "brand": "Samsung",
+        "model": "Galaxy S7",
+        "condition": "New",
+        "years_used": "2016 – Oct 2019",
+        "gsmarena_link": "https://www.gsmarena.com/samsung_galaxy_s7-7821.php",
+        "memory": "Back to Samsung again due to popularity and their innovations. Loved taking photos",
+        "image": "https://fdn2.gsmarena.com/vv/bigpic/samsung-galaxy-s7--.jpg"
+    },
+    {
+        "brand": "Google",
+        "model": "Pixel 3 XL",
+        "condition": "New",
+        "years_used": "Oct 2019 – 2021",
+        "gsmarena_link": "https://www.gsmarena.com/google_pixel_3_xl-9257.php",
+        "memory": "Back to Google again since wanted to try stock UI experience and of course for the love of photography.",
+        "image": "https://fdn2.gsmarena.com/vv/bigpic/google-pixel-3xl-.jpg"
+    },
+    {
+        "brand": "Xiaomi",
+        "model": "Poco F3",
+        "condition": "New",
+        "years_used": "2021 – 2022",
+        "gsmarena_link": "https://www.gsmarena.com/xiaomi_poco_f3-10758.php",
+        "memory": "Gotten this beast as I was playing CODM and I'm impressed with the performance. Had sold it to my cousin brother.",
+        "image": "https://fdn2.gsmarena.com/vv/bigpic/xiaomi-poco-f3.jpg"
+    },
+    {
+        "brand": "Google",
+        "model": "Pixel 4 XL",
+        "condition": "Used",
+        "years_used": "2022 – 2022",
+        "gsmarena_link": "https://www.gsmarena.com/google_pixel_4_xl-9895.php",
+        "memory": "Back to Pixel again for the love of photography and since retired from mobile gaming. The face ID detection was marvelous. Had to sell it off due to an issue with proximity sensor.",
+        "image": "https://fdn2.gsmarena.com/vv/bigpic/google-pixel-4-r1.jpg"
+    },
+    {
+        "brand": "Samsung",
+        "model": "Galaxy A50",
+        "condition": "Used",
+        "years_used": "2022 – 2022",
+        "gsmarena_link": "https://www.gsmarena.com/samsung_galaxy_a50-9554.php",
+        "memory": "Gotten it from my wife for a short period. After a long gap, experienced the refreshed OneUI and I am impressed. Call quality was great and performance is ok.",
+        "image": "https://fdn2.gsmarena.com/vv/bigpic/samsung-galaxy-a50-sm-a505f-ds.jpg"
+    },
+    {
+        "brand": "OnePlus",
+        "model": "6T McLaren",
+        "condition": "Used",
+        "years_used": "Nov 2022 – Mar 2023",
+        "gsmarena_link": "https://www.gsmarena.com/oneplus_6t_mclaren-9469.php",
+        "memory": "A friend of mine lend it to me since I was struggling with the A50. I must say 6T was one hell off a phone. The performance was top notch and the battery life was good despite being 5 years old.",
+        "image": "https://fdn2.gsmarena.com/vv/bigpic/oneplus-6t-mclaren-edition.jpg"
+    },
+    {
+        "brand": "Samsung",
+        "model": "Galaxy Note 10",
+        "condition": "Used",
+        "years_used": "Mar 2023 – Apr 2023",
+        "gsmarena_link": "https://www.gsmarena.com/samsung_galaxy_note10-9788.php",
+        "memory": "Gotten this at a cheap price from Carousell. The back glass was broken and the battery life was below average. I had replaced the battery and after few weeks as daily driver, the back camera unit spoiled. ",
+        "image": "https://fdn2.gsmarena.com/vv/bigpic/samsung-galaxy-note10-.jpg"
+    },
+    {
+        "brand": "Google",
+        "model": "Pixel 6 Pro",
+        "condition": "Used",
+        "years_used": "Apr 2023 – Current",
+        "gsmarena_link": "https://www.gsmarena.com/google_pixel_6_pro-10918.php",
+        "memory": "Glad to be back to Pixel again and been serving well so far as daily driver. Snappy performance and I had taken lots of photos. The only downside is subpar network reception quality and lack of 5G in Malaysia.",
+        "image": "https://fdn2.gsmarena.com/vv/bigpic/google-pixel-6-pro.jpg"
+    },
+    {
+        "brand": "Huawei",
+        "model": "P20 Pro",
+        "condition": "Used",
+        "years_used": "Dec 2023 – April 2025",
+        "gsmarena_link": "https://www.gsmarena.com/huawei_p20_pro-9106.php",
+        "memory": "Gotten this at a cheap price from Carousell as needed a secondary device. Performance was ok for 5 year old device. Been using for app development and navigation. Camera was good and it had desktop mode too!",
+        "image": "https://fdn2.gsmarena.com/vv/bigpic/huawei-p20-pro-.jpg"
+    },
+    {
+        "brand": "OnePlus",
+        "model": "10 Pro",
+        "condition": "Used",
+        "years_used": "Mar 2023 – Current",
+        "gsmarena_link": "https://www.gsmarena.com/oneplus_10_pro-11234.php",
+        "memory": "Gotten this at a super cheap price from Carousell since it had a green line on display. Been using this as daily driver. Exceptional performance and network reception quality. The only downside is no 5G support due to NA unit.",
+        "image": "https://fdn2.gsmarena.com/vv/bigpic/oneplus-10-pro.jpg"
+    }
+]

@@ -1,0 +1,85 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <title>My Phone Timeline</title>
+  <style>
+    body {
+      font-family: sans-serif;
+      margin: 0;
+      padding: 0 1rem;
+      background: #f9f9f9;
+      color: #333;
+    }
+    .timeline {
+      max-width: 700px;
+      margin: 2rem auto;
+    }
+    .phone-entry {
+      background: white;
+      padding: 0.75rem;
+      border-left: 4px solid #0070f3;
+      margin-bottom: 1rem;
+      box-shadow: 0 1px 2px rgba(0,0,0,0.08);
+      font-size: 0.95rem;
+    }
+    .phone-entry img {
+      max-width: 80px;
+      float: right;
+      margin-left: 1rem;
+    }
+    .phone-entry h2 {
+      margin-top: 0;
+      font-size: 1.1rem;
+    }
+    .years-used {
+      font-size: 0.85rem;
+      color: #666;
+    }
+    .condition {
+      font-size: 0.85rem;
+      color: #444;
+    }
+    .gsm-link {
+      font-size: 0.8rem;
+      color: #0070f3;
+      text-decoration: none;
+    }
+    .gsm-link:hover {
+      text-decoration: underline;
+    }
+  </style>
+</head>
+<body>
+  <h1 style="text-align:center; margin-top:2rem;">📱 My Phone Timeline</h1>
+  <div class="timeline" id="timeline"></div>
+
+  <script>
+    fetch('phones.json')
+      .then(response => response.json())
+      .then(data => {
+        const timeline = document.getElementById('timeline');
+
+        data.forEach(phone => {
+          const entry = document.createElement('div');
+          entry.className = 'phone-entry';
+
+          entry.innerHTML = `
+            <img src="${phone.image}" alt="${phone.brand} ${phone.model}">
+            <h2>${phone.brand} ${phone.model}</h2>
+            <div class="condition">Condition: ${phone.condition}</div>
+            <div class="years-used">${phone.years_used}</div>
+            <p>${phone.memory}</p>
+            <a class="gsm-link" href="${phone.gsmarena_link}" target="_blank">GSMArena</a>
+          `;
+
+          timeline.appendChild(entry);
+        });
+      })
+      .catch(error => {
+        console.error('Error loading phone data:', error);
+      });
+  </script>
+</body>
+</html>
